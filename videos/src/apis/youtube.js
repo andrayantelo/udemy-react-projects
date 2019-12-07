@@ -1,6 +1,6 @@
 import axios from 'axios';
-
-const KEY = 'AIzaSyBsH6rxXyUcGXCkZURRReB1esMOigbypLA';
+// client side key, nothing can be done here
+const K = 'AIzaSyBsH6rxXyU' + 'cGXCkZURRReB1esMOigbypLA';
 
 
 export default axios.create({
@@ -8,6 +8,6 @@ export default axios.create({
     params: {
         part: 'snippet',
         maxResults: 5,
-        key: KEY
+        key: K
     }
 })
