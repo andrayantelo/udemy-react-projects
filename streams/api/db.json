@@ -9,6 +9,30 @@
       "title": "My second stream",
       "description": "It's okay.",
       "id": 2
+    },
+    {
+      "title": "Starcraft",
+      "description": "Playing starcraft",
+      "userId": "108370356268106559689",
+      "id": 3
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "what",
+      "userId": "108370356268106559689",
+      "id": 4
+    },
+    {
+      "title": "coding stream",
+      "description": "watch me code",
+      "userId": "108370356268106559689",
+      "id": 5
+    },
+    {
+      "title": "Test",
+      "description": "this is a test",
+      "userId": "108370356268106559689",
+      "id": 6
     }
   ]
 }
